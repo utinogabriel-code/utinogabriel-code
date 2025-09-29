@@ -17,13 +17,10 @@ Web開発に情熱を注ぐJunior System Assistantです。モダンな技術ス
 
 ### 💻 Tech Stack
 
-**Frontend:**
 - React, Next.js
 - TypeScript, JavaScript
 - HTML, CSS
 - Tailwind CSS
-
-**Backend & Database:**
 - PostgreSQL
 - MySQL
 
