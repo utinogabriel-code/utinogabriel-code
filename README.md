@@ -37,7 +37,7 @@ Web開発に情熱を注ぐJunior System Assistantです。モダンな技術ス
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Casimiro-Uitno&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utinogabriel-code&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
