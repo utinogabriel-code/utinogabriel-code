@@ -29,11 +29,11 @@ Web開発に情熱を注ぐJunior System Assistantです。モダンな技術ス
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Casimiro-Uitno&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utinogabriel-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Casimiro-Uitno&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utinogabriel-code&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -43,5 +43,5 @@ Web開発に情熱を注ぐJunior System Assistantです。モダンな技術ス
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-Casimiro-Uitno&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=utinogabriel-code&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
